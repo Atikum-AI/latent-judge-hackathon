@@ -1,0 +1,4 @@
+# analysis caches and per-run logs of any shoot folder (the committed fixture has neither)
+precut_cache/
+meta_calls.jsonl
+shoot_*/dialogue/

@@ -1,0 +1,5 @@
+requests
+numpy
+pillow
+meta-sam-parser==0.1.0
+pytest
