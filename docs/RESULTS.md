@@ -26,7 +26,7 @@
 ## The steer on h05
 
 Prompt: "Moths circle a dim porch bulb outside a dark house at night." Judged as a low-key night shot (dark is
-intended, mud is not).
+intended, pure black is not).
 
 | | crushed blacks | exposure | result |
 |---|---|---|---|

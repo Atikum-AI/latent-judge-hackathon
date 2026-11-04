@@ -9,7 +9,7 @@ Demo video: _link_
 
 ## What it does
 
-Generative video fails silently. A night shot comes out as mud, a sunny street clips to white, and you only find out
+Generative video fails silently. A night shot comes out pure black, a sunny street clips to white, and you only find out
 after paying for every step and the decode, by eye.
 
 Latent Judge watches a video generation **while it is still being sampled**. At step 3 of 8 it predicts what the
