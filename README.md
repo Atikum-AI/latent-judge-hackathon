@@ -50,6 +50,11 @@ clip passes every check (crushed blacks 0.01 %). Left alone, the draft would hav
 
 ![the h05 steer: the draft at step 3, the draft left alone, the steered clip](docs/media/h05_steer_strip.png)
 
+**On a 50-step model too.** The same judge, calibrated on LTX-2.5's full base model (39 of our own generated
+clips, tested leave-one-out; calibration, not yet a blind held-out test): on night shots it caught 15 of 23 failures
+by step 12 of 50 with no false stops, so a shot stopped there never runs 38 of its 50 steps. Exposure and colour
+balance are readable from step 1.
+
 **Known limits, stated plainly.** Step-3 catches missed their mark, because the judge's margin of error is still wide
 on night shots. And on this run the director's thinking time (521 s of Spark calls, 268 s after this week's changes)
 costs more than the GPU time the gate saved (19 s). Catching failures early is what works today; making the director
