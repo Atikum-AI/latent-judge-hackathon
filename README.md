@@ -5,7 +5,7 @@
 Meta Global AI Developer Hackathon 2026 · Startup track · Push the Frontier · team Atikum
 (Kyo Silva, Swarnabha Ghosh)
 
-Demo video: _link_
+Demo video: https://youtu.be/WNvkfJxQJj0
 
 ## What it does
 
