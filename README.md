@@ -3,7 +3,7 @@
 **A video model that knows it's failing before it finishes.**
 
 Meta Global AI Developer Hackathon 2026 · Startup track · Push the Frontier · team Atikum
-(Kyo Silva, Swarnabha Ghosh, Lucas Kawasaki)
+(Kyo Silva, Swarnabha Ghosh)
 
 Demo video: _link_
 
